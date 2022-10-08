@@ -4,6 +4,15 @@ div { max-width: 700px;
     margin: 0 auto;
 }
     <header>
+    .logo {
+        width: 80px;
+    }
+    .icon {
+        width: 80px;
+    }
+    .hero { 
+        width: 100px;
+    }
     #hero-msg h1 {
         text-align: center;
     }
@@ -32,6 +41,7 @@ div { max-width: 700px;
     nav a {
         color: black;
         text-decoration: none;
+        text-align: center;
     }
     nav a:hover {
         background-color: rgb(80,80,80);
