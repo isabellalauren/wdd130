@@ -1,6 +1,6 @@
 <body>
 <div id="content">
-div { max-width: 500px;
+div { max-width: 700px;
     margin: 0 auto;
 }
     <header>
@@ -27,6 +27,7 @@ div { max-width: 500px;
     header {
         background-color:rgba(77,88,99, .7);
         color: #fcfbfb;
+        text-align: center;
     }
     nav a {
         color: black;
@@ -38,6 +39,7 @@ div { max-width: 500px;
     }
     .home-title {
         color: rgb(218, 85, 85)
+        text-align: center;
     }
     h4 {
         color: white)
