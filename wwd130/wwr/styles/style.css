@@ -1,9 +1,7 @@
-<body>
-<div id="content">
-div { max-width: 700px;
+
+#content { max-width: 1600px;
     margin: 0 auto;
 }
-    <header>
     .logo {
         width: 80px;
     }
@@ -14,11 +12,9 @@ div { max-width: 700px;
         width: 80px;
         padding-top: 10px;
     }
-    .hero { 
-        width: 100px;
-    }
-    .hero-box {
-        justify-content: center;
+    #hero { }
+    #hero-img {
+        width: 100%;
     }
     #hero-msg h1 {
         text-align: center;
@@ -89,7 +85,7 @@ div { max-width: 700px;
         margin: 200px 0;
     } 
     #background {
-        background-color: #fcfbfb;
+        background-color: rgb(80,80,80);
     }
     .card-img {
         border: 10px solid #d9c2a3;
@@ -102,6 +98,9 @@ div { max-width: 700px;
         color: black;
         line-height: 1.5em;
         padding: 35px;
+    }
+    .mountains {
+        margin: auto;
     }
     .msg p {
         font-size: .8em;
@@ -129,6 +128,3 @@ div { max-width: 700px;
     footer a:hover {
         color: rgba(77,88,99, .7);
     }
-    </footer>
-</div>
-</body>
