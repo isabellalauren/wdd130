@@ -3,6 +3,9 @@
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Montserrat:wght@300&family=Poppins:wght@300;400&display=swap');
+</style>
 
 :root {
   /* change the values below to your colors from your palette */
@@ -12,7 +15,7 @@ Fonts are separated by a & */
   --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "Amiri Quran", Lato;
+  --heading-font: "Poppins", Lato;
   --paragraph-font: Montserrat, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
