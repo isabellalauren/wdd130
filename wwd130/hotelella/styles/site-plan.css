@@ -6,9 +6,9 @@ Fonts are separated by a | */
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #C89989ff;
-  --secondary-color: #414338ff;
-  --accent1-color: #82AEA6ff;
-  --accent2-color: #E2D4CDff;
+  --secondary-color: #E2D4CDff;
+  --accent1-color: #ABCCC7ff;
+  --accent2-color: #414338ff;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Playfair Display, Raleway, IM Fell French Canon SC";
@@ -18,10 +18,10 @@ Fonts are separated by a | */
   --headline-color-on-white: #C89989ff;  /* headlines on a white background */ 
   --headline-color-on-color: #414338ff; /* headlines on a colored background */ 
   --paragraph-color-on-white: #C89989ff; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #E2D4CDff; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #C89989ff;
-  --nav-link-color: #82AEA6ff;
-  --nav-background-color: #414338ff;
+  --paragraph-color-on-color: #ABCCC7ff; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #E2D4CDff;
+  --nav-link-color: #414338ff;
+  --nav-background-color: #E2D4CDff;
   --nav-hover-link-color: #C89989ff;
   --nav-hover-background-color: #E2D4CDff;
 }
