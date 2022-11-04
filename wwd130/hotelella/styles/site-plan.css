@@ -4,7 +4,7 @@ Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Maven+Pro&family=Montserrat:wght@300&family=Playfair+Display&family=Poppins:wght@300;400&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #ffcdb2;
+  --primary-color: #f6e7cb;
   --secondary-color: #b5838d;
   --accent1-color: #BCB8B1;
   --accent2-color: #6d6875;
@@ -18,11 +18,11 @@ Fonts are separated by a | */
   --headline-color-on-color: #6d6875; /* headlines on a colored background */ 
   --paragraph-color-on-white: #b5838d; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #6d6875; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #ffcdb2;
+  --paragraph-background-color: #f6e7cb;
   --nav-link-color: #6d6875;
   --nav-background-color: #BCB8B1;
   --nav-hover-link-color: #6d6875;
-  --nav-hover-background-color: #ffcdb2;
+  --nav-hover-background-color: #f6e7cb;
 }
 
 
