@@ -25,6 +25,14 @@ Fonts are separated by a | */
   --nav-hover-background-color: #bcb8b1;
 }
 
+.wedding, .hotelpool, .patiosocial{ 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  margin: 300px;
+}
+.wedding{
+  grid-column: 6/9;
+}
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
