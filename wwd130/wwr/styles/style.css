@@ -189,6 +189,8 @@
         grid-column: 1/11;
         grid-row: 4/9;
     }
+   /* new page for mountain css. make sure only under here. not after media*/
+ .camp-grid
 
     @media screen and (max-width: 900px) {
         #hero, .home-grid {
