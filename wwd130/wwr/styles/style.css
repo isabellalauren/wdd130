@@ -190,7 +190,26 @@
         grid-row: 4/9;
     }
    /* new page for mountain css. make sure only under here. not after media*/
- .camp-grid
+
+   .camp-grid {
+    display:grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    margin-top:  -100px;
+ }
+ #camp-img {
+    width: 100%;
+}
+#camp-box {
+    grid-column: 1/4;
+    grid-row: 1/3;
+    z-index:-1;
+}
+    #camp-msg {
+        grid-column:2/3;
+        grid-row: 1/2;
+        margin-top: 100px;}
+
+
 
     @media screen and (max-width: 900px) {
         #hero, .home-grid {
