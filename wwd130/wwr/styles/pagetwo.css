@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    left: 47%;
+    color: white;
+}
+
+img {
+    width: 100%;
+
+}
+p, h2 {
+    padding: 10px;
+}
