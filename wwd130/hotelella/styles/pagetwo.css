@@ -59,29 +59,30 @@ nav a.active {
     position: relative;
     text-align: center;
    }
-#mainhotel-img{
-    width: 100%;
+#impacts-img{
+    width: 50%;
 }
-.mainhotel-msg{
+.impacts-msg{
     position: absolute;
     left: 50%;
     transform: translate(-50%);
     top: 35%;
     font-family: var(--heading-font);
     font-size: 60px;
-    color: #242323;
+    color: white;
     padding: 15px;
 }
-.mainhotel-msg:hover {
-background: white;
-opacity: 80%;
+.impacts-msg:hover {
+background: #6d6875;
+opacity: 90%;
+padding: 5px;
 }
-.ella {
+.impacts {
     text-align: center;
     font-size: larger;
     font-family: var(--paragraph-font)
 }
-#general{
+#general {
 align-self: right;
 width: auto;
 }
