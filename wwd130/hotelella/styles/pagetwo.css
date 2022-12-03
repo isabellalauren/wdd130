@@ -77,11 +77,21 @@ background: #6d6875;
 opacity: 90%;
 padding: 5px;
 }
-.impacts-text {
+.impacts-text, {
     border-radius: 70%;
     margin: 40px;
     padding-left: 120px;
     padding-right: 120px;
+}
+.quote-text {
+    margin: 60px;
+    padding-left: 460px;
+    padding-right: 460px;
+    line-height: .8cm;
+    background-color: #b5838d;
+    color: white;
+    
+
 }
 .impacts {
     text-align: center;
