@@ -78,9 +78,7 @@ opacity: 90%;
 padding: 5px;
 }
 .impacts-text {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-column: 1/2;
+    border-radius: 120px;
 }
 .impacts {
     text-align: center;
